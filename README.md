@@ -4,6 +4,7 @@
 ## Yoga for what YOU need.
 
 Link to Figma initial wireframes: https://www.figma.com/file/tKGSVn2lNFssVF4qjnF1PD/Youga
+
 Link to database wireframes: https://dbdiagram.io/d/5f7e39783a78976d7b76c5e1
 
 YOUGA is a full-stack application built using React, Ruby on Rails, and PostgreSQL.
